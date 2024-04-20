@@ -1,0 +1,6 @@
+print(10 > 5)
+print(7 < 3)
+print(9 >= 9)
+print(18 <= 11)
+print("abacaxi" == "uva")
+print("bicicleta" != "joao")
